@@ -1,6 +1,8 @@
 
 # Project: Continuous Control
 
+
+
 ### Introduction
 
 For this project, used [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment.
@@ -22,3 +24,7 @@ The observation space consists of 33 variables corresponding to position, rotati
 
 Chosen to solve the option 1 environment. An average score of +30 over 100 consecutive episodes is required for the environment being considered as solved
 
+
+### Solved enviroment GIF
+
+![models](./assets/Reacher_Solved.gif "Solved Reacher 1 Arm")
