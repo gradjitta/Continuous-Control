@@ -20,5 +20,5 @@ The observation space consists of 33 variables corresponding to position, rotati
 
 ### Option 1: Solve the First Version
 
-Chosen to solve the option 1 environment. An average score of +30 over 100 consecutive episodes. 
+Chosen to solve the option 1 environment. An average score of +30 over 100 consecutive episodes is required for the environment being considered as solved
 
