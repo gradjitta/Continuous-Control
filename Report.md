@@ -7,7 +7,7 @@
 
 
 
-The following is the alrorithm used from the paper https://arxiv.org/pdf/1509.02971.pdf
+The following is the algorithm used from the paper https://arxiv.org/pdf/1509.02971.pdf
 
 
 
