@@ -13,10 +13,7 @@ The observation space consists of 33 variables corresponding to position, rotati
 
 
 ### Linux environment chosen
-
-1. Download the environment from one of the links below.  You need only select the environment that matches your operating system:
-
-    - **_Version 1: One (1) Agent_**
+- **_Version 1: One (1) Agent_**
         - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/one_agent/Reacher_Linux.zip)
 
 
