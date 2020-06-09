@@ -30,7 +30,7 @@ class DDPGAgent:
     Replay buffer
     soft update
     actor and critic step
-    update
+    soft update
     """
     def __init__(self, in_actor, hidden_in_actor, hidden_out_actor, out_actor, in_critic, \
                  hidden_in_critic, hidden_out_critic, seed = 0, lr_actor=1.0e-3, lr_critic=1.0e-3):
