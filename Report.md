@@ -3,7 +3,7 @@
 ## Learning Algorithm
 
  - The code for DDPG was implemented with the help of udacity lecture material
- - Also referred to ShagtongZhang DRL library https://github.com/ShangtongZhang/DeepRL to dubug my model
+ - Also referred to ShagtongZhang DRL library https://github.com/ShangtongZhang/DeepRL to debug my model
 
 
 
